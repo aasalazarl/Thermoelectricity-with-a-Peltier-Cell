@@ -1,0 +1,10 @@
+Details on study conducted on a Peltier Cell for its possible applications as a thermoelectric device
+
+Experimental Details:
+thermoelectricity_report_salazar_alejandro.pdf
+
+Code for Data Collection Analysis:
+Categories:
+  - InternalResistance (of Peltier Cell)
+  - PeltierCoefficient
+  - SeebeckCoefficient+ThermalConductance
